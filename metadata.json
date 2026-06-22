@@ -1,0 +1,6 @@
+{
+  "name": "VaultLedger",
+  "description": "Plataforma premium para organização financeira pessoal, matemática financeira e mentalidade próspera baseada em princípios clássicos e estoicos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
